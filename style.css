@@ -10,6 +10,7 @@ html {
 .video {
   padding-top: 7px;
   padding-left: 50px;
+  float: left;
 }
 
 .image img {
